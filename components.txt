@@ -1,0 +1,54 @@
+Person crossing
+-------------------
+Arduino uno r3
+LED
+IR sensor
+jumping wires
+
+
+Intensity of light
+-----------------
+Arduino uno r3
+LDR
+Resistor 10ohm
+LED
+jumping wires
+
+
+Accident
+--------------
+Arduino Simulino uno
+vibration sensor
+LCD
+GSM
+GPS
+jumping wires
+
+
+Weather
+-------------
+Nodemcu ESP8266
+LDR
+BMP180 SENSOR
+DHT11 SENSOR
+RAIN SENSOR
+LCD DISPLAY
+l2C module
+bread board
+jumper wires
+
+
+light fault
+------------------
+Arduino uno
+LCD display
+LDR (3)
+PCB
+Resistor 10ohm (4)
+jumper wiers
+
+
+5v batteries
+bread board
+
+
